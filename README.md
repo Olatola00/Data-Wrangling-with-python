@@ -34,7 +34,7 @@ Finally, additional data on dog breed predictions was provided as a **tsv** file
 
 - `README.md`: This file, providing an overview of the project, motivation, methodology, key findings, and file structure.
 - `wrangle_act.ipynb`: The Jupyter Notebook containing the detailed data gathering, assessing, cleaning, and analysis process.
-- `visualization.ipynb`: (Assuming you'll create this for dedicated visualizations, or integrate them into `wrangle_act.ipynb`)
+- `visualize_act.ipynb`: This Jupyter Notebook dedicated for visualizations)
 - `twitter_archive_enhanced.csv`: The primary dataset containing WeRateDogs tweet data.
 - `twitter_master.csv`: The final, cleaned, and merged dataset ready for further analysis.
 - `image-prediction.tsv`: The dataset containing dog breed predictions from the neural network.
